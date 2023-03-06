@@ -1,5 +1,8 @@
 package findPivotIndex;
 
+//By AgusLacomi
+//Unfinished
+
 class Solution {
 	public int pivotIndex(int[] nums) {
 
